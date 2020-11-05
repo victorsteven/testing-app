@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Home</title>
+        <title>About</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       
@@ -16,7 +16,7 @@ export default function Home() {
         <div className="container mx-auto">
 
         <div className="border-b py-8 font-bold text-black text-center text-xl tracking-widest uppercase">
-            Welcome!
+            About Page
         </div>
 
       </div>
